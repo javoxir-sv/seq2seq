@@ -1,0 +1,10 @@
+jupyter
+torch
+scikit-learn
+pandas
+numpy
+seaborn
+matplotlib
+polars
+pyarrow
+pathlib
